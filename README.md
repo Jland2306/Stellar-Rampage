@@ -34,10 +34,9 @@ The game is endless by design. Survive, level up, and unlock upgrades to push yo
 | --- | --- |
 | Aim | `[Mouse]` |
 | Fire blaster (propels you backward) | `[Left Click]` |
-| Booster pack | `[Space]` |
+| Booster pack | `[WASD]` |
 | Pause | `[Esc]` |
-
-> **Fill in —** Update the bindings above to match your actual build.
+| Fullscreen | `[F]` |
 
 ## Built With
 
