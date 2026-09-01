@@ -56,8 +56,6 @@ Stellar Rampage was created as a team project for **IGME-106: Problem Solving wi
 
 ## Team
 
-> **Fill in —** List contributors and, if you'd like, their roles and GitHub profiles. Being clear about your own contributions is valuable when an employer is reviewing the repo.
-
 - [Jordan Landversicht] — [Documentation, frontend and UI development in C#]
 - [Mat Wargacki] — [Documentation, backend and gameplay system development in C#]
 - [Nick Branscombe] — [backend and gameplay system development in C#, sound-design]
