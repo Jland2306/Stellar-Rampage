@@ -7,6 +7,7 @@ Stranded in deep space, you fight through escalating waves of enemies with nothi
 *Developed for IGME-106: Problem Solving with Data Structures and Algorithms for Games — Rochester Institute of Technology, Spring 2025.*
 
 **[View the documentation →](https://docs.google.com/document/d/1oHibC02vRsQI5L2Vci1A_s1FPTQogetTrjlOTrevmTg/edit?usp=sharing)**
+
 **[Download the latest build →](https://nbclarkerit.github.io/stellar-rampage/)**
 
 ---
