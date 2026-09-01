@@ -1,4 +1,4 @@
-Stellar Rampage
+#Stellar Rampage
 
 **A fast-paced, endless space survival shooter where your only way to move is to shoot.**
 
