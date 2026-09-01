@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StellarRampage", "StellarRampage.csproj", "{7EFDE730-1F62-4D7B-88AC-AEC6882AE197}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Test|Any CPU = Test|Any CPU
+		Test|x64 = Test|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EFDE730-1F62-4D7B-88AC-AEC6882AE197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EFDE730-1F62-4D7B-88AC-AEC6882AE197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EFDE730-1F62-4D7B-88AC-AEC6882AE197}.Debug|x64.ActiveCfg = Debug|x64
+		{7EFDE730-1F62-4D7B-88AC-AEC6882AE197}.Debug|x64.Build.0 = Debug|x64
+		{7EFDE730-1F62-4D7B-88AC-AEC6882AE197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EFDE730-1F62-4D7B-88AC-AEC6882AE197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EFDE730-1F62-4D7B-88AC-AEC6882AE197}.Release|x64.ActiveCfg = Release|x64
+		{7EFDE730-1F62-4D7B-88AC-AEC6882AE197}.Release|x64.Build.0 = Release|x64
+		{7EFDE730-1F62-4D7B-88AC-AEC6882AE197}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{7EFDE730-1F62-4D7B-88AC-AEC6882AE197}.Test|Any CPU.Build.0 = Test|Any CPU
+		{7EFDE730-1F62-4D7B-88AC-AEC6882AE197}.Test|x64.ActiveCfg = Test|x64
+		{7EFDE730-1F62-4D7B-88AC-AEC6882AE197}.Test|x64.Build.0 = Test|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0590243-87A2-4DCA-BDC3-27AFA95AEAEC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+-File Template:
+-Upgrade Name | Max level |Sprite X Cord | Sprite Y Cord | Perk | Description
+----------------------------------------------
+_Enemies/Xp | 
+BULLET PIERCE| 10 | 1 | 1 | +1 Bullet Health | Bullets will now go through enemies, allowing a bullet to hit more| Attack
+ATTACK SPEED| 10 | 3 | 6 | +20% Attack Speed |  The cooldown for each shot is now shorter, increasing speed| Attack
+BOOST STRENGTH| 10 | 2 | 5 | +15% Boost Strength | Boost will now move player further faster| Movement
+EXTRA AMMO| 10 | 0 | 5 | +1 Shot | An extra bullet will be added to the bullet spread shot | Attack
+BULLET SPEED| 10 | 1 | 2 | +10% Projectile Speed | Bullets will now move faster, making them more likely to hit | Attack
+ORBITAL| 10 | 2 | 1 | +1 Turret | Orbitals are auto-firing defense turrets that will spin around the player|  Utility
+SHIELD | 10 | 4 | 3 | +1 Shield| A shield the follows the mouse and deals damage to any enemy it hits| Utility
+BOOST DURATION| 10| 0 | 2 | +100 Boost| Increase the amount of boost that can be used | Movement
+BOOST RECHARGE| 10 | 2 | 4 | +10% Boost Recharge| Regain boost faster after recharging restarts | Movement
+STABILIZER | 10 | 4 | 0 | -50% Recoil | Press space to trigger a self stabilizing boost| Movement
+BURST SHOT| 10 | 0 | 6 | +1 Shot | After each shot fired, shoot an extra bullet | Attack
+MAGNETISM| 10 | 3 | 5 | +15% XP Range | XP orbs can be picked up from a much larger range| Utility

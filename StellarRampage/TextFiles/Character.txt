@@ -1,0 +1,10 @@
+-File Template:
+-Character Name | Sprite Name| Description | Appeal | Ability | Font
+----------------------------------------------
+_Player/Players | Player/BottomGradient| Player/SmallGradient | Player/Dash | Player/Sword | Player/SwordWave
+Buddy | Blue | Buddy is the heart of the team. Known for his reliabilty and extra health, he is the most well rounded member of the group | BlueAppeal | +50 Health | beatstreet
+Buggy| Purple | Once a scapper, Buggy has managed to live out of sheer will. She is always tinkering between battles, making her always equipped with 2 extra drones. | BlueAppeal | +2 Orbital Drones | Hiatus
+Benjy| Red | Benjy is a thrill seeker who loves to outpace his enemies. His pack always seems to have an extra 200 boost compared to everyone elses | BlueAppeal | +200 Boost | adrip1
+Buffy| Yellow | Buffy is a little confused on what it means to be an astronaut. He has a gun, yet he never seems to use it| BlueAppeal | +1 Sword | edosz
+Bessy| Pink | Bessy is a Pacifist who ended up in the wrong line of work. She will do anything to avoid a fight, even if it means blockading herself in protective shields | BlueAppeal | +3 Shields |  Thesignature
+
