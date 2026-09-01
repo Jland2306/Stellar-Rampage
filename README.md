@@ -12,12 +12,19 @@ Stranded in deep space, you fight through escalating waves of enemies with nothi
 
 ---
 
-> **Fill in —** Add a screenshot or short gameplay GIF here. This is the single highest-impact addition for a portfolio README; recruiters look at visuals first. Drop the file in a `/screenshots` folder and reference it:
-![Stellar Rampage gameplay](screenshots/menu.png)
-
 <p align="center">
   <img src="screenshots/menu.png" width="45%">
   <img src="screenshots/gameOver.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/gameplay1.png" width="45%">
+  <img src="screenshots/gameplay2.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/upgrade.png" width="45%">
+  <img src="screenshots/boss.png" width="45%">
 </p>
 
 ---
